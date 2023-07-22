@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @SMSMiNHO
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning web development
+- 👋 Hi, I’m MostafaElshazly  
+- 👀 I’m interested in Coding And testing
+- 🌱 I’m currently learning Software testing automation
 - 💞️ I’m looking to collaborate on programming 
-- 📫 How to reach me mostafaelmasry25@icloud.com
+- 📫 How to reach me mostafaelmasry25@icloud.com or m-elshazly@outlook.com
 
 <!---
 SMSMiNHO/SMSMiNHO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
